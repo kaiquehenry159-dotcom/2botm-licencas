@@ -1,0 +1,5 @@
+versao=0.9.4
+arquivo=https://github.com/kaiquehenry159-dotcom/2botm-licencas/releases/download/v0.9.4/2BOTM.exe
+sha256=27b6b24728ff7b0e4d447ad1e8ef5383b3b754e851cf63b242ec3bea5d5c89c0
+assinatura=nUOCSCeDlrMOIFvJE/aYVmgq70wvQUzSN+CMsZ4QIFKA0sjAOo07bOOKoqL94AMzDlrZJi12uPgde6fSDElEsQ==
+novidades=Agora o painel mostra quantos dias faltam da sua licença.
